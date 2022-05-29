@@ -1,0 +1,23 @@
+{
+    "name": "discord.js_mongo",
+    "version": "0.0.1",
+    "description": "A discord bot example for using Mongo DB",
+    "scripts": {
+        "start": "cd Build && node index.js"
+    },
+    "keywords": [
+        "Discord",
+        "ChatBot",
+        "MongoDB",
+        "Nodejs",
+        "Typescript"
+    ],
+    "author": "CistusF",
+    "license": "ISC",
+    "dependencies": {
+        "discord.js": "^13.7.0",
+        "moment-timezone": "^0.5.34",
+        "mongoose": "^6.3.4",
+        "typescript": "^4.7.2"
+    }
+}
